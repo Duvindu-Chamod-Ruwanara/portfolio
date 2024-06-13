@@ -21,3 +21,9 @@
 - Get trained about API automation using java
 
 #### Technical Skills: Python, SQL, Java, Cypress, Selenium, Intellij
+
+## Professional Certificates
+***MongoDB and the Document Model***
+![MongoDB-cert1](/asset/images/mongo_certificate1.png)
+***MongoDB for SQL Professionals***
+![MongoDB-cert1](/asset/images/mongo_certificate2.png)
