@@ -1,4 +1,4 @@
-# Associate Quality Autmation Engineer
+# Duvindu Chamod
 
 #### Technical Skills: Python, SQL, Java, Cypress, Selenium, Intellij
 
