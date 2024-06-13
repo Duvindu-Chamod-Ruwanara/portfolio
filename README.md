@@ -26,4 +26,4 @@
 ***MongoDB and the Document Model***
 ![MongoDB-cert1](/asset/images/mongo_certificate1.png)
 ***MongoDB for SQL Professionals***
-![MongoDB-cert1](/asset/images/mongo_certificate2.png)
+![MongoDB-cert2](/asset/images/mongo_certificate2.png)
