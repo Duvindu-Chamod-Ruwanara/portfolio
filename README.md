@@ -20,7 +20,7 @@ The "Language for Presentations" lecture focuses on techniques to enhance the fl
 ## Education
 - BSc (Hons) in Information Technology _(Specialising in Software Engineering)_ | Sri Lanka Institiute of Information Technology (_January 2021 - December 2024_)								       		
 - G.C.E Advanced Level Examination | Taxila Central College - Horana (_August 2018_)	 			        		
-- G.C.E Ordinary Level Examination | Sripalee College - Horana (_May 2017_)
+- G.C.E Ordinary Level Examination | Sripalee College - Horana (_December 2015_)
 
 ## Work Experience
 **Associate Software Quality Automation Engineer @ LB Finance (_April 2022 - Present_)**
@@ -28,7 +28,7 @@ The "Language for Presentations" lecture focuses on techniques to enhance the fl
 - Started developping Load and Performance testing project using python
 
 **Intern Quality Automation @ LB Finance (_September 2021 - March 2022_)**
-- Developed API automation project for LB Finance Internal system to automate the processes of fixed deposit
+- Developed API automation project for LB Finance Internal Banking system to automate the processes of fixed deposit
 - Get trained about API automation using java
 
 #### Technical Skills: Python, SQL, Java, Cypress, Selenium, Intellij
